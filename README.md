@@ -6,7 +6,7 @@ ___
 
 ## About
 
-VFID contains monthly incdidence data for the coterminous United States from 2000--20015.
+We compiled a coccidioidomycosis (valley fever) case database for the southwestern United States (US). Currently, county-level, monthly case counts are available from 2000-2015 for Arizona, California, Nevada, New Mexico, and Utah. We collected these data from each respective state health agency. This database may be used to examine relationships between the number of valley fever cases and any hypothesized explanatory variable, including environmental conditions, human activities, or other health effects. We aim to keep this database current and expand this database as more states begin valley fever surveillance programs.
 
 ## Overview
 
@@ -14,11 +14,11 @@ VFID contains monthly incdidence data for the coterminous United States from 200
 
 #### 1) Database
 
-Convert L2 data (usually ASCII tables) into a netCDF-based L3 format compliant with metadata conventions (Climate-Forecast and ACDD) that promote automated discovery and analysis. 
+Comma-separated values (CSV) monthly data from 2000-2015 for Arizona, California, Nevada, New Mexico, and Utah.
 
 #### 2) Manuscript
 
-This manuscript describes VFID. 
+This manuscript describes VFID. fxm.
 
 #### 3) Supporting software
 
